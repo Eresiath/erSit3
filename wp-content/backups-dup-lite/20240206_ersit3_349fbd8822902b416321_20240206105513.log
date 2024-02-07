@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 6 February 2024 10h55
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.8
+WORDPRESS:	6.4.3
+PHP INFO:	8.2.13 | SAPI: apache2handler
+SERVER:		Apache/2.4.58 (Win64) PHP/8.2.13 mod_fcgid/2.3.10-dev 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (128M default) 
+MEMORY STACK: 12MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:13 | filtered:0 | create:13
+FILTERED: []
+SQL CREATED: 20240206_ersit3_349fbd8822902b416321_20240206105513_database.sql
+SQL FILE SIZE: 612.03KB (626723)
+SQL FILE TIME: 2024-02-06 10:55:28
+SQL RUNTIME: 0.72 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/wamp64/www/erSit3
+ARCHIVE FILE: 20240206_ersit3_349fbd8822902b416321_20240206105513_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	78.58MB
+STATS:	Dirs 534 | Files 3,957
+SQL ADDED: 20240206_ersit3_349fbd8822902b416321_20240206105513_database.sql
+ZipArchive Object
+(
+    [lastId] => 4490
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4491
+    [filename] => C:\wamp64\www\erSit3\wp-content\backups-dup-lite\tmp\20240206_ersit3_349fbd8822902b416321_20240206105513_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 4490
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 29.59MB
+ARCHIVE RUNTIME: 12.02 sec.
+MEMORY STACK: 12MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 612.03KB
+INSTALLER FILE: 73.47KB
+ARCHIVE FILE: 31.42MB 
+COMPTE ATTENDU DE FICHIERS/RÉPERTOIRES : 4,491
+COMPTE ACTUEL DE FICHIERS/RÉPERTOIRES : 4,490
+TEST DE COHÉRENCE D’ARCHIVE : Bon
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 14.39 sec.
+PEAK PHP MEMORY USED: 14MB
+DONE PROCESSING => 20240206_ersit3 6 February 2024 10h55
+
